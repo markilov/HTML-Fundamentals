@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="Author" content="Ivaylo Markilov"/>
+    <meta name="description" content="HTML Training"/>
+    <meta name="keywords" lang="en-us" content="HTML,training"/>
+
+    <title>HTML Fundamentals</title>
+</head>
+<body>
+    <h1>HTML Fundamentals</h1>
+    <h2>Overview</h2>
+    <div id="overviewContainer">
+        <p>Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.</p>
+
+        <h3>Objectives</h3>
+
+        <h3>Outline</h3>
+
+    </div>
+    <h2>Examaples</h2>
+    <div id="examplesContainer">
+        <h3>whitespace</h3>
+        <p>
+            Hypertext Markup Language is the standard markup language for creating web pages and web applications.
+            With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+        </p>
+        <hr />
+        <pre>
+            This is a haiku
+a boring haiku for you
+            This is a haiku
+        </pre>
+        <hr />
+        <span>first span</span> <br />
+        <span>second span</span>
+        <hr />
+        <div>This is how you write a &lt;div&gt;</div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+</body>
+</html>
